@@ -1,4 +1,4 @@
-print("a + b + ")
+print("a + b ")
 # fitur tambahan
 
 a = 10 
