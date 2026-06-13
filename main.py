@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 a = 10 
 b = 20
@@ -12,3 +13,9 @@ total = anjing + kucing
 anjing = "kucing"
 p = 1
 g = 19
+=======
+abc = 10
+de = 28
+anjing = "kucing"
+babi = "babi"
+>>>>>>> alden
